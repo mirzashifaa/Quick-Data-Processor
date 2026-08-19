@@ -70,7 +70,7 @@ QuickDataProcessor (QDP) is a serverless, multi-cloud application designed to si
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Jemspatel007/QuickDataProcessor
+   git clone https://github.com/mirzashifaa/QuickDataProcessor
    ```
 2. Install dependencies for the front-end (React):
    ```bash
@@ -127,8 +127,3 @@ QuickDataProcessor demonstrates the power of serverless architecture and multi-c
 
 ---
 
-## Contact
-For questions or contributions, please contact:
-**Jems Patel**  
-Email: [jems007patel@gmail.com](mailto:jems007patel@gmail.com)  
-GitHub: [Jemspatel007](https://github.com/Jemspatel007)

@@ -47,7 +47,7 @@ QuickDataProcessor (QDP) is a serverless, multi-cloud application designed to si
 
 - **Deployment**:
   - Hosted on GCP Cloud Run for scalability and cost efficiency.
-  - Automated deployments using GCP Deployment Manager.
+  - Automated build-push-deploy pipeline via Google Cloud Build, triggered on every commit.
 
 ---
 
@@ -61,7 +61,7 @@ QuickDataProcessor (QDP) is a serverless, multi-cloud application designed to si
 - **Notifications**: AWS SNS
 - **Data Processing**: AWS Glue
 - **Data Analysis**: Google Natural Language API, Looker Studio
-- **Deployment**: GCP Cloud Run, GCP Deployment Manager
+- **Deployment**: GCP Cloud Run, Google Cloud Build
 - **Other Tools**: Terraform, CI/CD Pipelines
 
 ---
